@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Joseph Rivera
 <a href="https://www.linkedin.com/in/joseph-rivera-7969bb266/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hello, my name is Joseph Rivera, and I was a student at Per Scholas, specializing in cybersecurity. My passion for technology and for troubleshooting have been throughout my academic journey, where I've consistently grasped complex concepts and applied them practically.
