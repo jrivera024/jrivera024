@@ -10,7 +10,6 @@ I believe I am uniquely qualified for this because in addition to my technical s
 After completing my program at Per Scholas, I will be looking for opportunities to apply my cybersecurity knowledge and skills to protect organizations from cyber threats. I'm seeking a role where I can make a meaningful impact in strengthening security measures and educating users on best practices.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
