@@ -33,7 +33,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=osTicket&logoColor=5%2C%203%2C%200&labelColor=212%2C%20141%2C%208&color=240%2C%20235%2C%20225">
+    <img src="https://img.shields.io/badge/osTicket?style=for-the-badge&logo=osTicket&logoColor=black&labelColor=orange&color=white">
 
 </div>
 
