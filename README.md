@@ -30,35 +30,31 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Skill-Troubleshooting-FF8C00?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
+## Operating System
+
+![Windows](https://img.shields.io/badge/OS-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/OS-Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+![osTicket](https://img.shields.io/badge/Ticketing-osTicket-orange?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/Tool-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Tool-Hyper--V-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+![Nmap](https://img.shields.io/badge/Tool-Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![TeamViewer](https://img.shields.io/badge/Tool-TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white)
+![MS Office](https://img.shields.io/badge/Tool-MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Tool-Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+![CompTIA A+](https://img.shields.io/badge/Certification-CompTIA_A%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)
+![Google IT Support](https://img.shields.io/badge/Certification-Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cisco Networking Essentials](https://img.shields.io/badge/Certification-Cisco_Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Cybersecurity Essentials](https://img.shields.io/badge/Certification-Cisco_Cybersecurity_Essentials-005073?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
