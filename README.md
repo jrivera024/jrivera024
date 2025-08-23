@@ -9,12 +9,9 @@ I believe I am uniquely qualified for this because in addition to my technical s
 
 After completing my program at Per Scholas, I will be looking for opportunities to apply my cybersecurity knowledge and skills to protect organizations from cyber threats. I'm seeking a role where I can make a meaningful impact in strengthening security measures and educating users on best practices.
 
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,11 +21,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | osTicket lifecycle examples                   | osTicket Lab|
 | Setting up VPN(Proton VPN)                    | VPN Lab|
 | COnfigure Active Directory                    | Active Directory Lab|
-
-![Networking](https://img.shields.io/badge/Skill-Networking-228B22?style=for-the-badge&logo=cisco&logoColor=white)
-![System Admin](https://img.shields.io/badge/Skill-System_Administration-4169E1?style=for-the-badge&logo=linux&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Skill-Troubleshooting-FF8C00?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 ## Operating System
 
