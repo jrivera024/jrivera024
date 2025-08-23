@@ -51,6 +51,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ![Google Workspace](https://img.shields.io/badge/Tool-Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
 ## Certifications
+
 ![CompTIA A+](https://img.shields.io/badge/Certification-CompTIA_A%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)
 ![Google IT Support](https://img.shields.io/badge/Certification-Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cisco Networking Essentials](https://img.shields.io/badge/Certification-Cisco_Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
