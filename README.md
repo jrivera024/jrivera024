@@ -25,6 +25,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+![Networking](https://img.shields.io/badge/Skill-Networking-228B22?style=for-the-badge&logo=cisco&logoColor=white)
+![System Admin](https://img.shields.io/badge/Skill-System_Administration-4169E1?style=for-the-badge&logo=linux&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Skill-Troubleshooting-FF8C00?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
@@ -33,8 +38,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/osTicket?style=for-the-badge&logo=osTicket&logoColor=black&labelColor=orange&color=white">
-
+    
 </div>
 
 ### Endpoint
