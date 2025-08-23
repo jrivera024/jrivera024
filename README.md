@@ -15,7 +15,7 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Azure                              | <a href="https://google.com">Cloud Computing</a>|
+| Setting up VM in Azure                        | <a href="https://google.com">Cloud Computing</a>|
 | Configuring Azure                             | <a href="https://google.com">Cloud Computing</a>|
 | Setting up osTicket                           | osTicket Lab|
 | osTicket lifecycle examples                   | osTicket Lab|
