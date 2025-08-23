@@ -20,7 +20,7 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 | Setting up osTicket                           | osTicket Lab|
 | osTicket lifecycle examples                   | osTicket Lab|
 | Setting up VPN(Proton VPN)                    | VPN Lab|
-| COnfigure Active Directory                    | Active Directory Lab|
+| Configure Active Directory                    | Active Directory Lab|
 
 ## Operating System
 
