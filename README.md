@@ -18,7 +18,7 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 | Setting up VM in Azure                        | <a href="https://github.com/jrivera024/Azure-Networking/blob/main/README.md">Setting up VM in Azure</a>|
 | Azure network protocols                       | <a href=https://github.com/jrivera024/Azure-networking-protocols/tree/main>Azure Networking</a>|
 | Installing osTicket                           | <a href=https://github.com/jrivera024/osTicket-Setup/blob/main/README.md>osTicket Installation|
-| Setting up osTicket                           | <a hrf=https://github.com/jrivera024/osTicket-setup>osTicket setup|
+| Setting up osTicket                           | <a href=https://github.com/jrivera024/osTicket-setup/blob/main/README.md>osTicket setup|
 | Setting up VPN(Proton VPN)                    | VPN Lab|
 | Configure Active Directory                    | Active Directory Lab|
 |                                               |                      |
