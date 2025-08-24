@@ -16,7 +16,7 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting up VM in Azure                        | <a href="https://github.com/jrivera024/Azure-Networking/blob/main/README.md">Setting up VM in Azure</a>|
-| Configuring Azure                             | <a href="https://google.com">Cloud Computing</a>|
+| Azure network protocols                       | <a href="https://google.com">Azure Networking</a>|
 | Setting up osTicket                           | osTicket Lab|
 | osTicket lifecycle examples                   | osTicket Lab|
 | Setting up VPN(Proton VPN)                    | VPN Lab|
