@@ -19,7 +19,7 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 | Azure network protocols                       | <a href=https://github.com/jrivera024/Azure-networking-protocols/tree/main>Azure Networking</a>|
 | Installing osTicket                           | <a href=https://github.com/jrivera024/osTicket-Setup/blob/main/README.md>osTicket Installation|
 | Setting up osTicket                           | <a href=https://github.com/jrivera024/osTicket-setup/blob/main/README.md>osTicket setup|
-| Creating and Solving Tickets                  | osTicket LifeCycles|
+| Creating and Solving Tickets                  | <a href=https://github.com/jrivera024/Ticket-Lifecycle/blob/main/README.md>osTicket LifeCycles|
 | Configure Active Directory                    | Active Directory Lab|
 | Setting up VPN(Proton VPN)                    |                      |
 ## Operating System
@@ -51,8 +51,3 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 
 </div>
 
-## Projects
-- osTIcket
-- azure-Vm
-- configure active directory
-- 
