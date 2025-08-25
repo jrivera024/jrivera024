@@ -23,6 +23,7 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 | Setting up VPN(Proton VPN)                    | <a href=https://github.com/jrivera024/VPN-Setup/blob/main/README.md>VPN Setup                  
 | Preparing Active Directory in Azure           | <a href=https://github.com/jrivera024/Active-Directory-in-Azure>Setting up Active Directory|
 | Deploying Active Directory                    | <a href=https://github.com/jrivera024/Active-Directory-Lab-Domain-Controller-Clients-Users>Azure Active Directory Lab – Domain Controller, Clients & Users
+| Active Directory Group Polices                | <a href=https://github.com/jrivera024/Active-Directory-Lab-Account-Lockouts-Security-Logs/blob/main/README.md> Active Directory Lab - Accounts, Lockouts, Security logs
 
 
 ## Operating System
