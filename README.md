@@ -21,7 +21,9 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 | Setting up osTicket                           | <a href=https://github.com/jrivera024/osTicket-setup/blob/main/README.md>osTicket setup|
 | Creating and Solving Tickets                  | <a href=https://github.com/jrivera024/Ticket-Lifecycle/blob/main/README.md>osTicket LifeCycles|
 | Configure Active Directory                    | Active Directory Lab|
-| Setting up VPN(Proton VPN)                    |                      |
+| Setting up VPN(Proton VPN)                    | <a href=https://github.com/jrivera024/VPN-Setup/blob/main/README.md>VPN Setup                     |
+
+
 ## Operating System
 
 ![Windows](https://img.shields.io/badge/OS-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
