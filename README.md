@@ -20,8 +20,9 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 | Installing osTicket                           | <a href=https://github.com/jrivera024/osTicket-Setup/blob/main/README.md>osTicket Installation|
 | Setting up osTicket                           | <a href=https://github.com/jrivera024/osTicket-setup/blob/main/README.md>osTicket setup|
 | Creating and Solving Tickets                  | <a href=https://github.com/jrivera024/Ticket-Lifecycle/blob/main/README.md>osTicket LifeCycles|
-| Configure Active Directory                    | Active Directory Lab|
-| Setting up VPN(Proton VPN)                    | <a href=https://github.com/jrivera024/VPN-Setup/blob/main/README.md>VPN Setup                     |
+| Setting up VPN(Proton VPN)                    | <a href=https://github.com/jrivera024/VPN-Setup/blob/main/README.md>VPN Setup                  
+| Preparing Active Directory in Azure           | Setting up Active Directory|
+| Deploying Active Directory                    | Azure Active Directory Lab – Domain Controller, Clients & Users
 
 
 ## Operating System
