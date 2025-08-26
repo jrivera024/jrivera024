@@ -15,15 +15,15 @@ After completing my program at Per Scholas, I will be looking for opportunities 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up VM in Azure                        | <a href="https://github.com/jrivera024/Azure-Networking/blob/main/README.md">Setting up VM in Azure</a>|
-| Azure network protocols                       | <a href=https://github.com/jrivera024/Azure-networking-protocols/tree/main>Azure Networking</a>|
-| Installing osTicket                           | <a href=https://github.com/jrivera024/osTicket-Setup/blob/main/README.md>osTicket Installation|
-| Setting up osTicket                           | <a href=https://github.com/jrivera024/osTicket-setup/blob/main/README.md>osTicket setup|
-| Creating and Solving Tickets                  | <a href=https://github.com/jrivera024/Ticket-Lifecycle/blob/main/README.md>osTicket LifeCycles|
-| Setting up VPN(Proton VPN)                    | <a href=https://github.com/jrivera024/VPN-Setup/blob/main/README.md>VPN Setup                  
+| Setting up VM in Azure                        | <a href=https://github.com/jrivera024/Azure-Networking>Setting up VM in Azure|
+| Azure network protocols                       | <a href=https://github.com/jrivera024/Azure-networking-protocols/tree/main>Azure Network Protocol|
+| Installing osTicket                           | <a href=https://github.com/jrivera024/osTicket-Installation>osTicket Installation|
+| Setting up osTicket                           | <a href=https://github.com/jrivera024/osTicket-setup>osTicket setup|
+| Creating and Solving Tickets                  | <a href=https://github.com/jrivera024/Ticket-Lifecycle>osTicket LifeCycles|
+| Setting up VPN(Proton VPN)                    | <a href=https://github.com/jrivera024/VPN-Setup>VPN Setup|                  
 | Preparing Active Directory in Azure           | <a href=https://github.com/jrivera024/Active-Directory-in-Azure>Setting up Active Directory|
-| Deploying Active Directory                    | <a href=https://github.com/jrivera024/Active-Directory-Lab-Domain-Controller-Clients-Users>Azure Active Directory Lab – Domain Controller, Clients & Users
-| Active Directory Group Polices                | <a href=https://github.com/jrivera024/Active-Directory-Lab-Account-Lockouts-Security-Logs/blob/main/README.md> Active Directory Lab - Accounts, Lockouts, Security logs
+| Deploying Active Directory                    | <a href=https://github.com/jrivera024/Active-Directory-Lab-Domain-Controller-Clients-Users>Azure Active Directory Lab – Domain Controller, Clients & Users|
+| Active Directory Group Polices                | <a href=https://github.com/jrivera024/Active-Directory-Lab-Account-Lockouts-Security-Logs> Active Directory Lab - Accounts, Lockouts, Security logs|
 
 
 ## Operating System
